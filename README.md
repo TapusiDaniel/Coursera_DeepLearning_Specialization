@@ -14,10 +14,11 @@
         * Understand the key parameters in a neural network's architecture
 
     * Programming Assignments:
-        * Logistic Regression with a Neural Network mindset[[notebook]] (https://github.com/TapusiDaniel/Coursera_DeepLearning_Specialization/blob/main/Neural%20Networks%20and%20Deep%20Learning/Week%202/Logistic_Regression_with_a_Neural_Network_mindset.ipynb)
-        * Planar data classification with one hidden layer [[notebook]] (https://github.com/TapusiDaniel/Coursera_DeepLearning_Specialization/blob/main/Neural%20Networks%20and%20Deep%20Learning/Week%203/Planar_data_classification_with_one_hidden_layer.ipynb)
-        * Building your Deep Neural Network: Step by Step [[notebook]] (https://github.com/TapusiDaniel/Coursera_DeepLearning_Specialization/blob/main/Neural%20Networks%20and%20Deep%20Learning/Week%204/Building_your_Deep_Neural_Network_Step_by_Step.ipynb)
-        * Deep Neural Network for Image Classification: Application [[notebook]] (https://github.com/TapusiDaniel/Coursera_DeepLearning_Specialization/blob/main/Neural%20Networks%20and%20Deep%20Learning/Week%204/Deep%20Neural%20Network%20-%20Application.ipynb)
+      
+        * Logistic Regression with a Neural Network mindset[[notebook]](https://github.com/TapusiDaniel/Coursera_DeepLearning_Specialization/blob/main/Neural%20Networks%20and%20Deep%20Learning/Week%202/Logistic_Regression_with_a_Neural_Network_mindset.ipynb)
+        * Planar data classification with one hidden layer [[notebook]](https://github.com/TapusiDaniel/Coursera_DeepLearning_Specialization/blob/main/Neural%20Networks%20and%20Deep%20Learning/Week%203/Planar_data_classification_with_one_hidden_layer.ipynb)
+        * Building your Deep Neural Network: Step by Step [[notebook]](https://github.com/TapusiDaniel/Coursera_DeepLearning_Specialization/blob/main/Neural%20Networks%20and%20Deep%20Learning/Week%204/Building_your_Deep_Neural_Network_Step_by_Step.ipynb)
+        * Deep Neural Network for Image Classification: Application [[notebook]](https://github.com/TapusiDaniel/Coursera_DeepLearning_Specialization/blob/main/Neural%20Networks%20and%20Deep%20Learning/Week%204/Deep%20Neural%20Network%20-%20Application.ipynb)
 
 * [***Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization***](https://www.coursera.org/learn/deep-neural-network/home/welcome) 
     * When you finish this class, you will:
@@ -25,7 +26,8 @@
         * Be able to effectively use the common neural network "tricks", including initialization, L2 and dropout regularization, Batch normalization, gradient checking, 
         * Be able to implement and apply a variety of optimization algorithms, such as mini-batch gradient descent, Momentum, RMSprop and Adam, and check for their convergence. 
         * Understand new best-practices for the deep learning era of how to set up train/dev/test sets and analyze bias/variance
-        * Be able to implement a neural network in TensorFlow. 
+        * Be able to implement a neural network in TensorFlow.
+          
     * Programming Assignments:
         * Initialization [[notebook]](https://github.com/TapusiDaniel/Coursera_DeepLearning_Specialization/blob/main/Improving%20Deep%20Neural%20Networks%3A%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/Week%201/Initialization.ipynb)
         * Regularization [[notebook]](https://github.com/TapusiDaniel/Coursera_DeepLearning_Specialization/blob/main/Improving%20Deep%20Neural%20Networks%3A%20Hyperparameter%20Tuning%2C%20Regularization%20and%20Optimization/Week%201/Regularization.ipynb)
@@ -47,6 +49,7 @@
       * Know how to apply convolutional networks to visual detection and recognition tasks.
       * Know to use neural style transfer to generate art.
       * Be able to apply these algorithms to a variety of image, video, and other 2D or 3D data.
+        
     * Programming Assignments:
         * Convolutional Model:step by step [[notebook]](https://github.com/TapusiDaniel/Coursera_DeepLearning_Specialization/blob/main/Convolutional%20Neural%20Networks/Week%201/Convolution_model_Step_by_Step_v1.ipynb)
         * Convolution model Application [[notebook]](https://github.com/TapusiDaniel/Coursera_DeepLearning_Specialization/blob/main/Convolutional%20Neural%20Networks/Week%201/Convolution_model_Application.ipynb)
@@ -63,6 +66,7 @@
       * Understand how to build and train Recurrent Neural Networks (RNNs), and commonly-used variants such as GRUs and LSTMs.
       * Be able to apply sequence models to natural language problems, including text synthesis.
       * Be able to apply sequence models to audio applications, including speech recognition and music synthesis.
+        
     * Programming Assignments:
         * Building your Recurrent Neural Network - Step by Step [[notebook]](https://github.com/TapusiDaniel/Coursera_DeepLearning_Specialization/blob/main/Sequence%20Models/Week%201/Building_a_Recurrent_Neural_Network_Step_by_Step.ipynb)
         * Character level language model - Dinosaurus Island [[notebook]](https://github.com/TapusiDaniel/Coursera_DeepLearning_Specialization/blob/main/Sequence%20Models/Week%201/Dinosaurus_Island_Character_level_language_model.ipynb)
